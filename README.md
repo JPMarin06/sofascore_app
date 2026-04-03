@@ -1,4 +1,4 @@
-# ⚽ Analysis Football App
+# ⚽ Anelysis Football App
 
 App web interactiva construida con **Streamlit** para buscar equipos, explorar sus historiales y analizar estadísticas avanzadas de partidos de fútbol extraídas de Sofascore.
 
